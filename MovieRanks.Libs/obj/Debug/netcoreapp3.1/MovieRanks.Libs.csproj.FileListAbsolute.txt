@@ -1,0 +1,5 @@
+C:\Users\subod\source\repos\MovieRank\MovieRanks.Libs\bin\Debug\netcoreapp3.1\MovieRanks.Libs.deps.json
+C:\Users\subod\source\repos\MovieRank\MovieRanks.Libs\bin\Debug\netcoreapp3.1\MovieRanks.Libs.dll
+C:\Users\subod\source\repos\MovieRank\MovieRanks.Libs\obj\Debug\netcoreapp3.1\MovieRanks.Libs.csprojAssemblyReference.cache
+C:\Users\subod\source\repos\MovieRank\MovieRanks.Libs\obj\Debug\netcoreapp3.1\MovieRanks.Libs.AssemblyInfoInputs.cache
+C:\Users\subod\source\repos\MovieRank\MovieRanks.Libs\obj\Debug\netcoreapp3.1\MovieRanks.Libs.AssemblyInfo.cs
